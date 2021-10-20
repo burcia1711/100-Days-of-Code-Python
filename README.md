@@ -1,6 +1,7 @@
 # 100-Days-of-Code-Python
 
 This is a repo for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu 
+
 Last Updated: 20.10.2021
 
 ## Projects in this repo:
