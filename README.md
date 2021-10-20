@@ -47,4 +47,4 @@ Classical Hangman game.
 
 ### 8. Caesar Cipher
 
-![Example](https://im2.ezgif.com/tmp/ezgif-2-c0f448d48606.gif)
+![Example](https://im2.ezgif.com/tmp/ezgif-2-8c2bd0a3cb0d.gif)
