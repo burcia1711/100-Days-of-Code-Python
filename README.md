@@ -44,3 +44,7 @@ A code for the solution of [Reeborg's World - Maze](https://reeborg.ca/reeborg.h
 Classical Hangman game.
 
 ![Example](https://im2.ezgif.com/tmp/ezgif-2-4aace070442c.gif)
+
+### 8. Caesar Cipher
+
+![Example](https://im2.ezgif.com/tmp/ezgif-2-c0f448d48606.gif)
