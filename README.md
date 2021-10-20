@@ -27,7 +27,7 @@ A simple game where you choose what to do to achieve the treasure.
 ### 4. Rock Paper Scissors
 Classical rock-paper-scissors game.
 
-![Example](https://im2.ezgif.com/tmp/ezgif-2-f26766d897c8.gif)
+![Example](https://im2.ezgif.com/tmp/ezgif-2-b3450a5b2dee.gif)
 
 
 ### 5. Password Generator
