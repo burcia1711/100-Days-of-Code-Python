@@ -70,15 +70,16 @@ No code here, learned the techniques for debugging.
 Questions to guess which has higher/lower followers.
 
 #### 15. Coffeee Machine
-
+Coffee Machine that is dealing water, coffee and price features.
 
 #### 16. Object Oriented Programming
-
+Using objects & understand programing. Pokemons & Turtle examples. And the Coffee Machine with OOP.
 
 #### 17. The Quiz Brain
-
+A quiz game.
 
 #### 18. Turtle Library & the GUI
-
+Using Turtle library.
 
 #### 19. Turtle Race
+6 turtles racing and you make a bet.
