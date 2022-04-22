@@ -56,7 +56,7 @@ Day | Project  | Summary
 ----------------------------
 ##### Band Name Generator
 ##### Bill Calculator
-  <font size="4"> If the bill was $150.00, split between 5 people, with 12% tip, each person should pay (150.00 / 5) * 1.12 = 33.6 </font> 
+  <sub>If the bill was $150.00, split between 5 people, with 12% tip, each person should pay (150.00 / 5) * 1.12 = 33.6</sub>
 ##### Treasure Island
 ##### Rock Paper Scissors
 ##### Password Generator
