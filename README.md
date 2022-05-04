@@ -52,6 +52,17 @@ Day | Project  | Summary
 42 | [Web Foundation: Intermediate HTML](#web-foundation-intermediate-html) |
 43 | [Web Foundation: CSS](#web-foundation-css) |
 44 | [Web Foundation: Intermediate CSS](#web-foundation-intermediate-css) |
+45 | [Web Scrapping with Beautiful Soup](#web-scrapping-with-beautiful-soup)|
+46 | [Spotify Playlist](#spotify-playlist) |
+47 | [Amazon Price Tracker](#amazon-price-tracker)|
+48 | [Selenium](#selenium)|
+49 | [LinkedIn Job Application](#linkedin-job-application)|
+50 | [Tinder Swiping Bot](#tinder-swiping-bot)|
+51 | [Twitter Complaint Bot](#twitter-complaint-bot)|
+52 | [Instagram Follower Bot](#instagram-follower-bot)|
+53 | [Renting Automation](#renting-automation)|
+54 | [Web Development with Flask](#web-development-with-flask)|
+55 | [Higher Lower Game with Flask](#higher-lower-game-with-flask)|
 
 ----------------------------
 ##### Band Name Generator
@@ -99,5 +110,19 @@ Day | Project  | Summary
 ##### Web Foundation: Intermediate HTML
 ##### Web Foundation: CSS
 ##### Web Foundation: Intermediate CSS
+##### Web Scrapping with Beautiful Soup
+##### Spotify Playlist
+##### Amazon Price Tracker
+##### Selenium
+##### LinkedIn Job Application
+##### Tinder Swiping Bot
+##### Twitter Complaint Bot
+##### Instagram Follower Bot
+##### Renting Automation
+##### Web Development with Flask
+##### Higher Lower Game with Flask
+
+
+
 
 
